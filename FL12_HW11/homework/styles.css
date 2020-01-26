@@ -1,0 +1,16 @@
+ul {
+    list-style-type: none;
+    padding-left: 15px;
+}
+i {
+    color: #eae000;
+}
+.file_icon {
+    color: #858585;
+}
+.folder {
+    cursor:pointer;
+}
+.empty {
+    font-style: italic;
+} 
